@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+</html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programa Antecessor</title>
+    <script src="js/script.js"></script>
+</head>
+
+<body>
+    <h1>Programa Antecessor</h1>
+    <p>Insira um numero e descubra o antecessor</p>
+    <form action="">
+        <input id="n1" type="number" placeholder="Digite um numero">
+        <input type="button" value="Calcular" onclick="calcular()">
+        <input id="resultado" type="number" readonly>
+    </form>
+
+    <script>
+        function calcular(){
+            var n1 = parseInt(document.getElementById('n1').value);
+            resultado.value = n1 - 1;
+        }   
+
+    </script>
+</body>
+
+</html>
