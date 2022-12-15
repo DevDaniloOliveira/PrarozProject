@@ -1,25 +1,25 @@
 Algoritmo "Login e Senha"
-// Disciplina   : [Lógica de Programação com JavaScript]
+// Disciplina   : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson Costa
 
-// Descrição   : Faça um algoritmo para ler um número que é um código de
-// usuário. Caso este código seja diferente de um código armazenado
+// Descriï¿½ï¿½o   : Faï¿½a um algoritmo para ler um nï¿½mero que ï¿½ um cï¿½digo de
+// usuï¿½rio. Caso este cï¿½digo seja diferente de um cï¿½digo armazenado
 // internamente no algoritmo (igual a 1234) deve ser apresentada a mensagem
-// ‘Usuário inválido!’. Caso o Código seja correto, deve ser lido outro valor
-// que é a senha. Se esta senha estiver incorreta (a certa é 9999) deve ser
-// mostrada a mensagem ‘senha incorreta’. Caso a senha esteja correta, deve
-// ser mostrada a mensagem ‘Acesso permitido’.
+// ï¿½Usuï¿½rio invï¿½lido!ï¿½. Caso o Cï¿½digo seja correto, deve ser lido outro valor
+// que ï¿½ a senha. Se esta senha estiver incorreta (a certa ï¿½ 9999) deve ser
+// mostrada a mensagem ï¿½senha incorretaï¿½. Caso a senha esteja correta, deve
+// ser mostrada a mensagem ï¿½Acesso permitidoï¿½.
 
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 15/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    codigo, senha : inteiro
 
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
-   Escreval("Bem vindo! Digite seu código")
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
+   Escreval("Bem vindo! Digite seu cï¿½digo")
    Leia(codigo)
 
    escolha(codigo)
@@ -31,11 +31,11 @@ Inicio
       caso 9999
          Escreval("Acesso Permitido")
       outrocaso
-         Escreval("Acesso Negado. Senha não confere!")
+         Escreval("Acesso Negado. Senha nï¿½o confere!")
       fimescolha
       
    outrocaso
-      Escreval("Acesso Negado. Código não confere!")
+      Escreval("Acesso Negado. Cï¿½digo nï¿½o confere!")
    fimescolha
 
 

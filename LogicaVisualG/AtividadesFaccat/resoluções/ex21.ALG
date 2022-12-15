@@ -1,19 +1,19 @@
 Algoritmo "Horas de Jogo"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Recebe a hora inicial do jogo e a hora final e determina
-//               a duração do jogo
+// Descriï¿½ï¿½o   : Recebe a hora inicial do jogo e a hora final e determina
+//               a duraï¿½ï¿½o do jogo
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 12/09/2022
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
 h1:inteiro
 h2:inteiro
 temp:inteiro
 tem:inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
 escreval("Digite o horario de inicio do jogo em horas")
 leia(h1)
 escreval("Digite o horario de fim do jogo")
@@ -21,9 +21,9 @@ leia(h2)
 temp<-h2-h1
 se h1>=h2 entao
  tem<-24-(temp*-1)
- escreval("você passou ",tem," horas no jogo")
+ escreval("vocï¿½ passou ",tem," horas no jogo")
 senao
-escreval("você passou ",temp," horas no jogo")
+escreval("vocï¿½ passou ",temp," horas no jogo")
 fimse
 
 Fimalgoritmo

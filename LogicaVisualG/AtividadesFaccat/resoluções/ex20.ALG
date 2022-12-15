@@ -1,14 +1,14 @@
 Algoritmo "Numeros em ordem crescente"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Recebe dois valores e escreve e ordem crescente
+// Descriï¿½ï¿½o   : Recebe dois valores e escreve e ordem crescente
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 12/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    n1,n2,:inteiro
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc..
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc..
    Escreval("insira um numero :")
    leia(n1)
    escreval("insira outro numero diferente do primeiro :")

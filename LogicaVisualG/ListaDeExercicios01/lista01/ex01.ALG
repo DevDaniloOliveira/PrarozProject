@@ -1,20 +1,20 @@
 Algoritmo "sucessor"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : O programa solicita um numero e retonar seu sucessor!
+// Descriï¿½ï¿½o   : O programa solicita um numero e retonar seu sucessor!
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 05/09/2022
 Var
-// Seção de Declarações das variáveis
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 numero1:inteiro
 sucessor:inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
 escreval("Descubra o Sucessor")
 escreval("Digite um numero")
 leia(numero1)
 sucessor<-numero1+ 1
-escreval("o sucessor do numero ",numero1," é o numero",sucessor)
+escreval("o sucessor do numero ",numero1," ï¿½ o numero",sucessor)
 
 Fimalgoritmo

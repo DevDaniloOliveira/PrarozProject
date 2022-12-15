@@ -1,7 +1,7 @@
 Algoritmo "algoritmo para calculo de volume de uma caixa retangular"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : o programa calcula o volume de uma caixa retangular!
+// Descriï¿½ï¿½o   : o programa calcula o volume de uma caixa retangular!
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 05/09/2022
 Var
@@ -11,9 +11,9 @@ comprimento:real
 altura:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
 
-escreval("Insira as informações da caixa: ")
+escreval("Insira as informaï¿½ï¿½es da caixa: ")
 escreval("Insira a altura da caixa: ")
 leia(altura)
 escreval("Insita o comprimento da caixa: ")
@@ -21,6 +21,6 @@ leia(comprimento)
 escreval("Insita o largura da caixa: ")
 leia(largura)
 volume<-altura*comprimento*largura
-escreval("O volume da caixa é de ",volume,"M³")
+escreval("O volume da caixa ï¿½ de ",volume,"Mï¿½")
 
 Fimalgoritmo

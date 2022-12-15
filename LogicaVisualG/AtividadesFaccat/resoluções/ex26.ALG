@@ -1,28 +1,28 @@
-Algoritmo "Média Estoque"
-// Disciplina  : [Lógica de Programação com JavaScript]
+Algoritmo "Mï¿½dia Estoque"
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson Costa
-// Descrição   : Faça um algoritmo para ler: quantidade atual em estoque,
-//               quantidade máxima em estoque e quantidade mínima em estoque
+// Descriï¿½ï¿½o   : Faï¿½a um algoritmo para ler: quantidade atual em estoque,
+//               quantidade mï¿½xima em estoque e quantidade mï¿½nima em estoque
 //               de um produto.
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 15/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    qMax,qMin,qMed,qEst: real
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
    Escreval("Bom dia!")
-   Escreval("Para começarmos, digite a quantidade máxima do seu estoque")
+   Escreval("Para comeï¿½armos, digite a quantidade mï¿½xima do seu estoque")
    Leia(qMax)
-   Escreval("Agora, digite a quantidade mínima do estoque")
+   Escreval("Agora, digite a quantidade mï¿½nima do estoque")
    Leia(qMin)
    Escreval("Agora, digite a quantidade do seu estoque atualmente")
    Leia(qEst)
    qMed <- (qMax+qMin)/2
-   Escreval("A quantidade média do seu estoque é de",qMed)
+   Escreval("A quantidade mï¿½dia do seu estoque ï¿½ de",qMed)
    se qMed >= qEst entao
-      Escreval("Não efetuar mais a compra")
+      Escreval("Nï¿½o efetuar mais a compra")
    senao
       Escreval("Efetuar a compra")
    fimse
@@ -31,7 +31,7 @@ Inicio
 
 Fimalgoritmo
 
-//Calcular e escrever a quantidade média ((quantidade
-//média = quantidade máxima + quantidade mínima)/2). Se a quantidade em
-//estoque for maior ou igual a quantidade média escrever a mensagem
-//'Não efetuar compra', senão escrever a mensagem 'Efetuar compra'.
+//Calcular e escrever a quantidade mï¿½dia ((quantidade
+//mï¿½dia = quantidade mï¿½xima + quantidade mï¿½nima)/2). Se a quantidade em
+//estoque for maior ou igual a quantidade mï¿½dia escrever a mensagem
+//'Nï¿½o efetuar compra', senï¿½o escrever a mensagem 'Efetuar compra'.

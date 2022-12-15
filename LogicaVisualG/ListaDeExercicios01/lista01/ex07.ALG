@@ -1,23 +1,23 @@
 Algoritmo "Area do Retangulo"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : O programa faz o calculo e escreve a área do retângulo!
+// Descriï¿½ï¿½o   : O programa faz o calculo e escreve a ï¿½rea do retï¿½ngulo!
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 31/08/2022
 Var
-// Seção de Declarações das variáveis
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 base:real
 altura:real
 area:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
-escreval("Informe a base e a altura e descubra a área do retangulo")
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
+escreval("Informe a base e a altura e descubra a ï¿½rea do retangulo")
 escreval("Digite o valor da base do retangulo em metros:")
 leia(base)
 escreval("Digite o valor da altura d retangulo em metros:")
 leia(altura)
 area<-base*altura
-escreval(" a area do retangulo de base ",base," metros e altura ",altura," metros é ",area,"m²")
+escreval(" a area do retangulo de base ",base," metros e altura ",altura," metros ï¿½ ",area,"mï¿½")
 
 Fimalgoritmo

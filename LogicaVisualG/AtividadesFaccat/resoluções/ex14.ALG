@@ -1,20 +1,20 @@
 Algoritmo "Maior que 10"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   :  Ler  um  valor  e  escrever  a  mensagem  É  MAIOR  QUE  10!
-//                se  o  valor  lido  for  maior  que  10,  caso contrário escrever NÃO É MAIOR QUE 10!
+// Descriï¿½ï¿½o   :  Ler  um  valor  e  escrever  a  mensagem  ï¿½  MAIOR  QUE  10!
+//                se  o  valor  lido  for  maior  que  10,  caso contrï¿½rio escrever Nï¿½O ï¿½ MAIOR QUE 10!
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 12/09/2022
 Var
-// Seção de Declarações das variáveis
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 n1:inteiro
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc..
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc..
 Escreval("digite um numero: ")
 leia(n1)
 se n1>10 entao
- escreval("É  MAIOR  QUE  10!")
+ escreval("ï¿½  MAIOR  QUE  10!")
 senao
-  escreval("NÂO É  MAIOR  QUE  10!")
+  escreval("Nï¿½O ï¿½  MAIOR  QUE  10!")
 fimse
 Fimalgoritmo

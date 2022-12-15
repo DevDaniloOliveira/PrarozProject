@@ -1,7 +1,7 @@
 Algoritmo "Conversor de real pra dolar"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Solicita o valor em real e converte conforme a cotação
+// Descriï¿½ï¿½o   : Solicita o valor em real e converte conforme a cotaï¿½ï¿½o
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 05/09/2022
 Var
@@ -10,12 +10,12 @@ n2:real
 r:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
 
-escreval("Insira o montante a ser convertido e a cotação do dolar pro real")
+escreval("Insira o montante a ser convertido e a cotaï¿½ï¿½o do dolar pro real")
 escreval("Insira o valor em real: ")
 leia(n1)
-escreval("Insira a cotação atual: ")
+escreval("Insira a cotaï¿½ï¿½o atual: ")
 leia(n2)
 r<-n1*n2
 escreval("o montante de ",n1,"R$ corresponde a ",r,"$ com o real valendo ",r)

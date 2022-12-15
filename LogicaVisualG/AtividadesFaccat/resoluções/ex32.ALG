@@ -1,25 +1,25 @@
 Algoritmo "Time Vencedor"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson Costa
-// Descrição   : Ler o nome de 2 times e o número de gols marcados na partida
+// Descriï¿½ï¿½o   : Ler o nome de 2 times e o nï¿½mero de gols marcados na partida
 //               (para cada time).
 //               Escrever o nome do vencedor.
-//               Caso não haja vencedor deverá ser impressa a palavra EMPATE.
+//               Caso nï¿½o haja vencedor deverï¿½ ser impressa a palavra EMPATE.
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 15/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    time1,time2 : caracter
    gols1,gols2 : inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
-   Escreval("Olá, digite o nome do primeiro time")
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
+   Escreval("Olï¿½, digite o nome do primeiro time")
    Leia(time1)
    Escreval("Quantos gols esse mesmo time fez? (na partida)")
    Leia(gols1)
    
-   Escreval("Agora, digite o nome do time adversário")
+   Escreval("Agora, digite o nome do time adversï¿½rio")
    Leia(time2)
    Escreval("Quantos gols esse mesmo time fez? (na mesma partida)")
    Leia(gols2)
@@ -27,7 +27,7 @@ Inicio
    se gols1 > gols2 entao
       Escreval("O time vencedor foi ",time1, " com ",gols1," gol(s)")
    fimse
-   se gols2 > gols1 então
+   se gols2 > gols1 entï¿½o
       Escreval("O time vencedor foi ",time2, " com ",gols2," gol(s)")
    senao
       Escreval("Houve um EMPATE!")

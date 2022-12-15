@@ -1,22 +1,22 @@
 Algoritmo "Tabuada"
-// Disciplina   : [Lógica de Programação com JavaScript]
+// Disciplina   : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Solicita um numero e multiplica de 1 até 10
+// Descriï¿½ï¿½o   : Solicita um numero e multiplica de 1 atï¿½ 10
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 23/09/2022
 Var
-// Seção de Declarações das variáveis
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 numero:inteiro
 produto:inteiro
 multiplicador:inteiro
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
 escreval("Digite um numero")
 leia(numero)
 enquanto multiplicador<10 faca
 multiplicador<-multiplicador+1
 produto<-numero*multiplicador
-escreval("O resultado da multiplicação ",multiplicador," *",numero," é igual a ",produto)
+escreval("O resultado da multiplicaï¿½ï¿½o ",multiplicador," *",numero," ï¿½ igual a ",produto)
 fimenquanto
 
 Fimalgoritmo

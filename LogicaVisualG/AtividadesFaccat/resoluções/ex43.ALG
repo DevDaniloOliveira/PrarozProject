@@ -1,16 +1,16 @@
-Algoritmo "TRIÂNGULOS"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "TRIï¿½NGULOS"
+// Disciplina   : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson Costa
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descriï¿½ï¿½o   : Aqui vocï¿½ descreve o que o programa faz! (funï¿½ï¿½o)
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 16/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    a, b, c : real
    mens: caracter
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
    Escreval("Digite 3 valores")
    Escreva("A - ")
    Leia(a)
@@ -18,26 +18,26 @@ Inicio
    Leia(b)
    Escreva("C - ")
    Leia(c)
-   se (a < b+c) e (b <a+c) e (c <a+b) então
-      se (a=b) e (b=c) então
-         mens <- "Triângulo Equilátero"
-      senão
-         se (a=b) ou (b=c) ou (a=c) então
-            mens <- "Triângulo Isósceles"
-         senão
-            mens <- "Triângulo Escaleno"
+   se (a < b+c) e (b <a+c) e (c <a+b) entï¿½o
+      se (a=b) e (b=c) entï¿½o
+         mens <- "Triï¿½ngulo Equilï¿½tero"
+      senï¿½o
+         se (a=b) ou (b=c) ou (a=c) entï¿½o
+            mens <- "Triï¿½ngulo Isï¿½sceles"
+         senï¿½o
+            mens <- "Triï¿½ngulo Escaleno"
 
          fimse
       fimse
-   senão
-      mens <- "Não e possível formar um triângulo"
+   senï¿½o
+      mens <- "Nï¿½o e possï¿½vel formar um triï¿½ngulo"
    fimse
    escreval( mens)
 Fimalgoritmo
 
 //          a | b | C | Mens
-//          1 | 2 | 3 | Não e possível formar um triângulo
-//          3 | 4 | 5 | Triângulo Escaleno
-//          2 | 2 | 4 | Não e possível formar um triângulo
-//          4 | 4 | 4 | Triângulo Equilátero
-//          5 | 3 | 3 | Triângulo Isósceles
+//          1 | 2 | 3 | Nï¿½o e possï¿½vel formar um triï¿½ngulo
+//          3 | 4 | 5 | Triï¿½ngulo Escaleno
+//          2 | 2 | 4 | Nï¿½o e possï¿½vel formar um triï¿½ngulo
+//          4 | 4 | 4 | Triï¿½ngulo Equilï¿½tero
+//          5 | 3 | 3 | Triï¿½ngulo Isï¿½sceles

@@ -1,21 +1,21 @@
 Algoritmo "Numero maior"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Recebe dois valores e determina qual é o maior
+// Descriï¿½ï¿½o   : Recebe dois valores e determina qual ï¿½ o maior
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 12/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    n1,n2,maior:inteiro
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc..
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc..
    Escreval("insira um numero :")
    leia(n1)
    escreval("insira outro numero diferente do primeiro :")
    leia(n2)
    se n1>n2 entao
-   escreval("o numero ",n1," é maior que o numero ",n2, "!")
+   escreval("o numero ",n1," ï¿½ maior que o numero ",n2, "!")
    senao
-   escreval("o numero ",n2," é maior que o numero ",n1 "!")
+   escreval("o numero ",n2," ï¿½ maior que o numero ",n1 "!")
    fimse
 Fimalgoritmo

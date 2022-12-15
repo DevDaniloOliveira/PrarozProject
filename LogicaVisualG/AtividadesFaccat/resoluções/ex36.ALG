@@ -1,8 +1,8 @@
 Algoritmo "Idade M e F"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson Costa
-// Descrição   : Escreva um algoritmo que leia as idades de 2 homens e de 2
-//               mulheres (considere que as idades dos homens serão sempre
+// Descriï¿½ï¿½o   : Escreva um algoritmo que leia as idades de 2 homens e de 2
+//               mulheres (considere que as idades dos homens serï¿½o sempre
 //               diferentes entre si, bem como as das mulheres). Calcule e
 //               escreva a soma das idades do homem mais velho com a mulher
 //               mais nova, e o produto das idades do homem mais novo com a
@@ -10,14 +10,14 @@ Algoritmo "Idade M e F"
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 15/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    idadeH1,idadeH2, idadeM1, idadeM2 : inteiro
    iMaiorM,iMenorM, iMaiorH,iMenorH  : inteiro
    soma1, soma2                      : inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
-   Escreval("Olá, digite a idade do primeiro homem")
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
+   Escreval("Olï¿½, digite a idade do primeiro homem")
    Leia(idadeH1)
    Escreval("Digite a idade do segundo homem")
    Leia(idadeH2)
@@ -47,8 +47,8 @@ Inicio
    soma2 <- iMenorH + iMaiorM
    
    Escreval("--------------")
-   Escreval(" A idade do homem mais velho com a mulher mais nova é ",soma1)
-   Escreval(" A idade do homem mais novo com a mulher mais velha é ",soma2)
+   Escreval(" A idade do homem mais velho com a mulher mais nova ï¿½ ",soma1)
+   Escreval(" A idade do homem mais novo com a mulher mais velha ï¿½ ",soma2)
    
    
 

@@ -1,22 +1,22 @@
-Algoritmo "PreÇo Litros"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "Preï¿½o Litros"
+// Disciplina   : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson Costa
-// Descrição   : Escreva um algoritmo que leia o número de litros vendidos e o
-//               tipo de combustível (codificado da seguinte forma: A-álcool,
+// Descriï¿½ï¿½o   : Escreva um algoritmo que leia o nï¿½mero de litros vendidos e o
+//               tipo de combustï¿½vel (codificado da seguinte forma: A-ï¿½lcool,
 //               G-gasolina), calcule e imprima o valor a ser pago pelo
-//               cliente sabendo-se que o preço do litro da gasolina é
-//               R$ 3,30 e o preço do litro do álcool é R$ 2,90.
+//               cliente sabendo-se que o preï¿½o do litro da gasolina ï¿½
+//               R$ 3,30 e o preï¿½o do litro do ï¿½lcool ï¿½ R$ 2,90.
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 15/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    TipoC : caracter
    Litros, Total : real
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
-   Escreval("Olá, digite o tipo do combustível")
-   Escreval("A - Álcool")
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
+   Escreval("Olï¿½, digite o tipo do combustï¿½vel")
+   Escreval("A - ï¿½lcool")
    Escreval("B - Gasolina")
    Leia(TipoC)
 
@@ -26,23 +26,23 @@ Inicio
       Leia(Litros)
       se Litros <= 20 entao
          Total <- Litros * (2.90 - 0.03)
-         Escreval("O valor a ser pago é ",Total)
+         Escreval("O valor a ser pago ï¿½ ",Total)
       senao se litro > 20 entao
          Total <- Litros * (2.90 - 0.05)
-         Escreval("O valor a ser pago é ",Total)
+         Escreval("O valor a ser pago ï¿½ ",Total)
       fimse
    Caso "B"
        Escreval("Agora, digite a quantidade de litros")
       Leia(Litros)
       se Litros <= 20 entao
          Total <- Litros * (2.90 - 0.04)
-         Escreval("O valor a ser pago é ",Total)
+         Escreval("O valor a ser pago ï¿½ ",Total)
       senao se litro > 20 entao
          Total <- Litros * (2.90 - 0.06)
-         Escreval("O valor a ser pago é ",Total)
+         Escreval("O valor a ser pago ï¿½ ",Total)
       fimse
    outrocaso
-      Escreval("Tipo de combustível não identificado")
+      Escreval("Tipo de combustï¿½vel nï¿½o identificado")
    fimescolha
 
 

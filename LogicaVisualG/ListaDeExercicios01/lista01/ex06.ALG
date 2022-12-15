@@ -1,24 +1,24 @@
 Algoritmo "divisao"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : O programa solicita 2 numeros e retorna a divisão do valores
+// Descriï¿½ï¿½o   : O programa solicita 2 numeros e retorna a divisï¿½o do valores
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 31/08/2022
 Var
-// Seção de Declarações das variáveis 
-// Divisão=divi
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
+// Divisï¿½o=divi
 numero1:real
 numero2:real
 divi:real
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
 escreval("Bom dia")
 escreval("Digite um numero:")
 leia(numero1)
 escreval("Digite outro numero:")
 leia(numero2)
 divi<-numero1/numero2
-escreval("a divisão dos valores inseridos é:",divi)
+escreval("a divisï¿½o dos valores inseridos ï¿½:",divi)
 
 
 Fimalgoritmo

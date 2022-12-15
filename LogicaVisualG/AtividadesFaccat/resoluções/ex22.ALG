@@ -1,25 +1,25 @@
 Algoritmo "Calculo de salario"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Recebe as informações do funcionario e determina o salario ja
+// Descriï¿½ï¿½o   : Recebe as informaï¿½ï¿½es do funcionario e determina o salario ja
 //               com o calculo das horas extras
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 12/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    horas,valorhora,salario,horaextra:real
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc..
-   Escreval("insira quanto você ganhar por hora trabalhada :")
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc..
+   Escreval("insira quanto vocï¿½ ganhar por hora trabalhada :")
    leia(valorhora)
    escreval("insira as horas trabalhadas :")
    leia(horas)
    se horas>160 entao
    horaextra<-horas-160
    salario<-(160*valorhora)+(horaextra*valorhora/2)
-   escreval("Você trabalhou ",horas," horas e recebeu ",salario)
+   escreval("Vocï¿½ trabalhou ",horas," horas e recebeu ",salario)
    senao
    salario<-horas*valorhora
-   escreval("Você trabalhou ",horas," horas e recebeu ",salario)
+   escreval("Vocï¿½ trabalhou ",horas," horas e recebeu ",salario)
    fimse
 Fimalgoritmo

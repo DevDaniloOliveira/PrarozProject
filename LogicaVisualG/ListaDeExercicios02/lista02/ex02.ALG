@@ -1,11 +1,11 @@
-Algoritmo "Eleição"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "Eleiï¿½ï¿½o"
+// Disciplina   : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : o programa faz a relação de votos validos nulos e brancos em porcentagem
+// Descriï¿½ï¿½o   : o programa faz a relaï¿½ï¿½o de votos validos nulos e brancos em porcentagem
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 05/09/2022
 Var
-// Seção de Declarações das variáveis
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 votos:inteiro
 validos:inteiro
 nulos:inteiro
@@ -16,8 +16,8 @@ relacaon:real
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc..
-Escreval("Relação de votos validos,brancos e nulos")
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc..
+Escreval("Relaï¿½ï¿½o de votos validos,brancos e nulos")
 Escreval("insira a quantidade de votos: ")
 leia(votos)
 escreval("insira a quantidade de votos validos: ")

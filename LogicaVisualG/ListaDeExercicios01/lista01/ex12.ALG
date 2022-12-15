@@ -1,20 +1,20 @@
-Algoritmo "Área do círculo"
-// Disciplina  : [Lógica de Programação com JavaScript]
+Algoritmo "ï¿½rea do cï¿½rculo"
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : O programa faz o calculo e escreve a área do círculo!
+// Descriï¿½ï¿½o   : O programa faz o calculo e escreve a ï¿½rea do cï¿½rculo!
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 05/09/2022
 Var
-// Seção de Declarações das variáveis
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 raio:real
 area:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
-escreval("Informe o valor do raio e descubra a área do circulo")
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
+escreval("Informe o valor do raio e descubra a ï¿½rea do circulo")
 escreval("Digite o valor do raio em metros:")
 leia(raio)
-area<-3,14*raio^2 //a=pi*r²
-escreval("a área do circulo é",area)
+area<-3,14*raio^2 //a=pi*rï¿½
+escreval("a ï¿½rea do circulo ï¿½",area)
 
 Fimalgoritmo

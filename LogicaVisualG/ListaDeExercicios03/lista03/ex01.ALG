@@ -1,11 +1,11 @@
-Algoritmo "Le quatro números inteiros e apresenta o resultado da adição e multiplicação"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "Le quatro nï¿½meros inteiros e apresenta o resultado da adiï¿½ï¿½o e multiplicaï¿½ï¿½o"
+// Disciplina   : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Danilo Oliveira de Almeida
-// Descrição   : Le quatro números inteiros e apresentar o resultado da adição e multiplicação!
+// Descriï¿½ï¿½o   : Le quatro nï¿½meros inteiros e apresentar o resultado da adiï¿½ï¿½o e multiplicaï¿½ï¿½o!
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 05/09/2022
 Var
-// Seção de Declarações das variáveis
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 n1:inteiro
 n2:inteiro
 n3:inteiro
@@ -23,8 +23,8 @@ m4:inteiro
 m5:inteiro
 m6:inteiro
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-escreval("digite quatro números inteiros e o programa aplica a distributiva")
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
+escreval("digite quatro nï¿½meros inteiros e o programa aplica a distributiva")
 escreval("insira o primeiro numero inteiro: ")
 leia(n1)
 escreval("insira o segundo numero inteiro: ")
@@ -47,19 +47,19 @@ m5<-n2*n4
 m6<-n3*n4
 escreval("Resultados")
 escreval("Somas")
-escreval("1ªNumero somado com o 2ªNumero é igual a ",a1)
-escreval("1ªNumero somado com o 3ªNumero é igual a ",a2)
-escreval("1ªNumero somado com o 4ªNumero é igual a ",a3)
-escreval("2ªNumero somado com o 3ªNumero é igual a ",a4)
-escreval("2ªNumero somado com o 4ªNumero é igual a ",a5)
-escreval("3ªNumero somado com o 4ªNumero é igual a ",a6)
-escreval("Multiplicações")
-escreval("1ªNumero Multiplicado pelo 2ªNumero é igual a ",m1)
-escreval("1ªNumero Multiplicado pelo 3ªNumero é igual a ",m2)
-escreval("1ªNumero Multiplicado pelo 4ªNumero é igual a ",a3)
-escreval("2ªNumero Multiplicado pelo 3ªNumero é igual a ",m4)
-escreval("2ªNumero Multiplicado pelo 4ªNumero é igual a ",m5)
-escreval("3ªNumero Multiplicado pelo 4ªNumero é igual a ",m6)
+escreval("1ï¿½Numero somado com o 2ï¿½Numero ï¿½ igual a ",a1)
+escreval("1ï¿½Numero somado com o 3ï¿½Numero ï¿½ igual a ",a2)
+escreval("1ï¿½Numero somado com o 4ï¿½Numero ï¿½ igual a ",a3)
+escreval("2ï¿½Numero somado com o 3ï¿½Numero ï¿½ igual a ",a4)
+escreval("2ï¿½Numero somado com o 4ï¿½Numero ï¿½ igual a ",a5)
+escreval("3ï¿½Numero somado com o 4ï¿½Numero ï¿½ igual a ",a6)
+escreval("Multiplicaï¿½ï¿½es")
+escreval("1ï¿½Numero Multiplicado pelo 2ï¿½Numero ï¿½ igual a ",m1)
+escreval("1ï¿½Numero Multiplicado pelo 3ï¿½Numero ï¿½ igual a ",m2)
+escreval("1ï¿½Numero Multiplicado pelo 4ï¿½Numero ï¿½ igual a ",a3)
+escreval("2ï¿½Numero Multiplicado pelo 3ï¿½Numero ï¿½ igual a ",m4)
+escreval("2ï¿½Numero Multiplicado pelo 4ï¿½Numero ï¿½ igual a ",m5)
+escreval("3ï¿½Numero Multiplicado pelo 4ï¿½Numero ï¿½ igual a ",m6)
 
 
 Fimalgoritmo

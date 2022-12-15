@@ -1,24 +1,24 @@
-Algoritmo "Calcula e apresenta o valor do volume de uma lata de óleo"
-// Disciplina  : [Lógica de Programação com JavaScript]
+Algoritmo "Calcula e apresenta o valor do volume de uma lata de ï¿½leo"
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : o programa Calcula e apresenta o valor do volume de uma lata de óleo !
+// Descriï¿½ï¿½o   : o programa Calcula e apresenta o valor do volume de uma lata de ï¿½leo !
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 05/09/2022
 Var
 volume:real
 raio:real
 altura:real
-//Volume = pi*Raio²*Altura
+//Volume = pi*Raioï¿½*Altura
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
 
-escreval("Insira as informações da lata e descubra o volume: ")
+escreval("Insira as informaï¿½ï¿½es da lata e descubra o volume: ")
 escreval("Insira a altura da lata: ")
 leia(altura)
 escreval("Insita o raio da lata: ")
 leia(raio)
 volume<-3,14* (raio^2) * altura
-escreval("O volume da lata é de ",volume,"c³")
+escreval("O volume da lata ï¿½ de ",volume,"cï¿½")
 
 Fimalgoritmo

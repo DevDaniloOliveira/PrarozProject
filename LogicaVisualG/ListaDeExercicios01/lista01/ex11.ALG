@@ -1,19 +1,19 @@
-Algoritmo "Área do trapézio"
-// Disciplina  : [Lógica de Programação com JavaScript]
+Algoritmo "ï¿½rea do trapï¿½zio"
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : O programa faz o calculo e escreve a área do trapézio!
+// Descriï¿½ï¿½o   : O programa faz o calculo e escreve a ï¿½rea do trapï¿½zio!
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 05/09/2022
 Var
-// Seção de Declarações das variáveis
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 basemaior:real
 basemenor:real
 altura:real
 area:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
-escreval("Informe o valor das bases e a altura descubra a área do trapézio")
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
+escreval("Informe o valor das bases e a altura descubra a ï¿½rea do trapï¿½zio")
 escreval("Digite o valor da base maior em metros:")
 leia(basemaior)
 escreval("Digite o valor da base menor em metros:")
@@ -21,6 +21,6 @@ leia(basemenor)
 escreval("Digite o valor da altura em metros:")
 leia(altura)
 area<-(basemaior+basemenor)*altura/2 //a=(B+b).h/2//
-escreval("a área do trapézio é",area)
+escreval("a ï¿½rea do trapï¿½zio ï¿½",area)
 
 Fimalgoritmo

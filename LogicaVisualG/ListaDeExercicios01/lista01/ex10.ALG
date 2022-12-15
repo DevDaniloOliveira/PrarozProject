@@ -1,23 +1,23 @@
-Algoritmo "Área do losango"
-// Disciplina  : [Lógica de Programação com JavaScript]
+Algoritmo "ï¿½rea do losango"
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : O programa faz o calculo e escreve a área do losango!
+// Descriï¿½ï¿½o   : O programa faz o calculo e escreve a ï¿½rea do losango!
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 05/09/2022
 Var
-// Seção de Declarações das variáveis
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 diagmenor:real
 diagmaior:real
 area:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
-escreval("Informe o valor das diagonais e descubra a área do losango")
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
+escreval("Informe o valor das diagonais e descubra a ï¿½rea do losango")
 escreval("Digite o valor da diagonal maior em metros:")
 leia(diagmaior)
 escreval("Digite o valor da diagonal menor em metros:")
 leia(diagmenor)
 area<-diagmenor*diagmaior/2
-escreval("a área do losango é",area)
+escreval("a ï¿½rea do losango ï¿½",area)
 
 Fimalgoritmo

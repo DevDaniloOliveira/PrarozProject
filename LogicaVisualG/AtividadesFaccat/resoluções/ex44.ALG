@@ -1,20 +1,20 @@
 Algoritmo "Valores com REPITA"
-// Disciplina   : [Lógica de Programação com JavaScript]
+// Disciplina   : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson Costa
 
-// Descrição   : Escreva um algoritmo para ler 2 valores e se o segundo valor informado
-// for ZERO, deve ser lido um novo valor, ou seja, para o segundo valor não pode ser
-// aceito o valor zero e imprimir o resultado da divisão do primeiro valor lido pelo
+// Descriï¿½ï¿½o   : Escreva um algoritmo para ler 2 valores e se o segundo valor informado
+// for ZERO, deve ser lido um novo valor, ou seja, para o segundo valor nï¿½o pode ser
+// aceito o valor zero e imprimir o resultado da divisï¿½o do primeiro valor lido pelo
 // segundo valor lido. (utilizar a estrutura REPITA).
 
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 16/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    valorA,valorB, resultado : real
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
    Escreval("Digite 2 valores")
    Escreva("1- ")
    Leia(valorA)

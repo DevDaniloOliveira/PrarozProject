@@ -1,21 +1,21 @@
 Algoritmo "Saldo Positivo ou Negativo"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson Costa
-// Descrição   : Faça um  algoritmo para ler: número da  conta do cliente, saldo,
-//               débito e  crédito.
+// Descriï¿½ï¿½o   : Faï¿½a um  algoritmo para ler: nï¿½mero da  conta do cliente, saldo,
+//               dï¿½bito e  crï¿½dito.
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 12/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    saldoA, saldo, debito,credito: real
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
-   Escreval("Olá, para começarmos, digite o seu Saldo")
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
+   Escreval("Olï¿½, para comeï¿½armos, digite o seu Saldo")
    Leia(saldo)
-   Escreval("Digite o débito")
+   Escreval("Digite o dï¿½bito")
    Leia(debito)
-   Escreval("E por fim, digite o crédito")
+   Escreval("E por fim, digite o crï¿½dito")
    Leia(credito)
    
    saldoA <- saldo-debito+credito
@@ -27,6 +27,6 @@ Inicio
 
 Fimalgoritmo
 
-//Após,  calcular e escrever o saldo atual (saldo atual = saldo - débito + crédito).
-//Também testar se saldo atual for maior ou igual a zero escrever a mensagem
-//'Saldo Positivo', senão escrever a mensagem 'Saldo Negativo'.
+//Apï¿½s,  calcular e escrever o saldo atual (saldo atual = saldo - dï¿½bito + crï¿½dito).
+//Tambï¿½m testar se saldo atual for maior ou igual a zero escrever a mensagem
+//'Saldo Positivo', senï¿½o escrever a mensagem 'Saldo Negativo'.

@@ -1,20 +1,20 @@
-Algoritmo "Área do quadrado"
-// Disciplina  : [Lógica de Programação com JavaScript]
+Algoritmo "ï¿½rea do quadrado"
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : O programa faz o calculo e escreve a área do quadrado!
+// Descriï¿½ï¿½o   : O programa faz o calculo e escreve a ï¿½rea do quadrado!
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 05/09/2022
 Var
-// Seção de Declarações das variáveis
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 lado:real
 area:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
-escreval("Informe o valor do lado do quadrado e descubra a área do quadrado")
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
+escreval("Informe o valor do lado do quadrado e descubra a ï¿½rea do quadrado")
 escreval("Digite o valor da lado em metros:")
 leia(lado)
 area<-lado^2
-escreval("a área do quadrado é",area)
+escreval("a ï¿½rea do quadrado ï¿½",area)
 
 Fimalgoritmo

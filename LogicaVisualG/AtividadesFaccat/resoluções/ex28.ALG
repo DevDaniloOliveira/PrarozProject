@@ -1,16 +1,16 @@
 Algoritmo "Valor Maior"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson Costa
-// Descrição   : Ler 3 valores (considere que não serão informados valores
+// Descriï¿½ï¿½o   : Ler 3 valores (considere que nï¿½o serï¿½o informados valores
 //               iguais) e escrever o maior deles.
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 15/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    val1,val2,val3: real
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
    Escreval("Digite o primeiro valor para avaliarmos")
    Leia(val1)
    Escreval("Digite o segundo valor")
@@ -19,12 +19,12 @@ Inicio
    leia(val3)
 
    se (val1 > val2) e (val1 > val3)  entao
-      Escreval("O maior valor é ",val1)
+      Escreval("O maior valor ï¿½ ",val1)
    fimse
    se (val2 > val1) e (val2 > val3) entao
-      Escreval("O maior valor é ",val2)
+      Escreval("O maior valor ï¿½ ",val2)
    senao
-      Escreval("O maior valor é ",val3)
+      Escreval("O maior valor ï¿½ ",val3)
    fimse
 
 

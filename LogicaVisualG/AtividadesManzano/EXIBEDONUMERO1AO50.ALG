@@ -1,14 +1,14 @@
 Algoritmo "ExibeDoNumero1ao50"
-// Disciplina   : [Lógica de Programação com JavaScript]
+// Disciplina   : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Exibe de 1 a 50
+// Descriï¿½ï¿½o   : Exibe de 1 a 50
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 23/09/2022
 Var
-// Seção de Declarações das variáveis
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 numero:inteiro
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
 enquanto numero<50 faca
 numero<-numero+1
 escreval(numero)

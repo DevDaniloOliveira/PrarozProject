@@ -1,15 +1,15 @@
 Algoritmo "SomaDos500primeirosNumerosImpares"
-// Disciplina   : [Lógica de Programação com JavaScript]
+// Disciplina   : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Soma dos 500 primeiros numeros impares
+// Descriï¿½ï¿½o   : Soma dos 500 primeiros numeros impares
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 23/09/2022
 Var
-// Seção de Declarações das variáveis
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 numero:inteiro
 soma:inteiro
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
 numero<-1
 enquanto numero<501 faca
 soma<-soma+numero

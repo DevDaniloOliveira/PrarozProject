@@ -1,11 +1,11 @@
-Algoritmo "Eleição sindical"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "Eleiï¿½ï¿½o sindical"
+// Disciplina   : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : O programa faz a apuração dos votos e determina a porcentagem
+// Descriï¿½ï¿½o   : O programa faz a apuraï¿½ï¿½o dos votos e determina a porcentagem
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 05/09/2022
 Var
-// Seção de Declarações das variáveis
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 cA:real
 cB:real
 cC:real
@@ -20,8 +20,8 @@ B:real
 C:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc..
-Escreval("Apuração de votos")
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc..
+Escreval("Apuraï¿½ï¿½o de votos")
 Escreval("insira a quantidade de votos no candidator A: ")
 leia(cA)
 Escreval("insira a quantidade de votos no candidator B: ")
@@ -39,7 +39,7 @@ B<-cB*100/votos
 C<-cC*100/votos
 vB<-brancos*100/votos
 vN<-nulos*100/votos
-escreval("Apuração")
+escreval("Apuraï¿½ï¿½o")
 escreval("Foram computados ",votos,"votos")
 escreval("Foram computados ",validos,"votos validos")
 escreval("Os votos no candidato A corresponde a ",A,"% dos votos")

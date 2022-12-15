@@ -1,14 +1,14 @@
 Algoritmo "Peso ideal"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Recebe peso e altura e sexo do usuario e retorna o peso ideal
+// Descriï¿½ï¿½o   : Recebe peso e altura e sexo do usuario e retorna o peso ideal
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 12/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    peso,altura,ideal,sexo:real
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc..
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc..
    Escreval("Insira seu peso atual :")
    leia(peso)
    escreval("insira sua altura :")
@@ -20,5 +20,5 @@ Inicio
    senao
       ideal<-(62.1*altura)-44.7
    fimse
-   escreval("Seu peso ideal é de ",ideal,"kg")
+   escreval("Seu peso ideal ï¿½ de ",ideal,"kg")
 Fimalgoritmo

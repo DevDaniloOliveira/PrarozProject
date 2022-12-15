@@ -1,42 +1,42 @@
 Algoritmo "Ordem Crescente"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson Costa
-// Descrição   : Ler 3 valores (considere que não serão informados valores
-//               iguais) e escrevê-los em ordem crescente.
+// Descriï¿½ï¿½o   : Ler 3 valores (considere que nï¿½o serï¿½o informados valores
+//               iguais) e escrevï¿½-los em ordem crescente.
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 15/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    val1,val2,val3 : real
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
-   Escreval("Para começarmos, digite o primeiro valor")
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
+   Escreval("Para comeï¿½armos, digite o primeiro valor")
    Leia(val1)
    Escreval("Digite o segundo valor")
    Leia(val2)
-   Escreval("Por último digite o terceiro valor")
+   Escreval("Por ï¿½ltimo digite o terceiro valor")
    Leia(val3)
 
    se (val1 > val2) e (val1 > val2) entao
       se val2 > val3 entao
-         Escreval("A ordem crescente é: ",val1,val2,val3)
+         Escreval("A ordem crescente ï¿½: ",val1,val2,val3)
       senao
-         Escreval("A ordem crescente é: ",val1,val3,val2)
+         Escreval("A ordem crescente ï¿½: ",val1,val3,val2)
       fimse
    fimse
    se (val2 > val1) e (val2 > val3) entao
       se val1 > val3 entao
-         Escreval("A ordem crescente é: ",val2,val1,val3)
+         Escreval("A ordem crescente ï¿½: ",val2,val1,val3)
       senao
-         Escreval("A ordem crescente é: ",val2,val3,val1)
+         Escreval("A ordem crescente ï¿½: ",val2,val3,val1)
       fimse
    fimse
    se (val3 > val1) e (val3 > val2) entao
       se val1 > val2 entao
-         Escreval("A ordem crescente é: ",val3,val1,val2)
+         Escreval("A ordem crescente ï¿½: ",val3,val1,val2)
       senao
-         Escreval("A ordem crescente é: ",val3,val2,val1)
+         Escreval("A ordem crescente ï¿½: ",val3,val2,val1)
       fimse
    fimse
 

@@ -1,7 +1,7 @@
 Algoritmo "Solicita 4 valores soma e multiplica entre eles"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : solicita 4 valores multiplica o 1ª e o 3ª e soma o 2ª e o 4ª
+// Descriï¿½ï¿½o   : solicita 4 valores multiplica o 1ï¿½ e o 3ï¿½ e soma o 2ï¿½ e o 4ï¿½
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 05/09/2022
 Var
@@ -13,7 +13,7 @@ p1:real
 s2:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
 
 escreval("Insira os 4 valores")
 escreval("Insira o primeiro valor: ")
@@ -25,7 +25,7 @@ leia(n3)
 escreval("insira o quarto valor: ")
 p1<-n1*n3
 s2<-n2+n4
-escreval("o produto do 1ª e 3ª valor é ",p1)
-escreval("a soma do 2ª e 4ª valor é ",s2)
+escreval("o produto do 1ï¿½ e 3ï¿½ valor ï¿½ ",p1)
+escreval("a soma do 2ï¿½ e 4ï¿½ valor ï¿½ ",s2)
 
 Fimalgoritmo

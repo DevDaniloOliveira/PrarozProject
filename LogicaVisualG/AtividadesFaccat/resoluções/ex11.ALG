@@ -1,29 +1,29 @@
-Algoritmo "Calculo de Comissão"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "Calculo de Comissï¿½o"
+// Disciplina   : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : O Algoritmo recebe as informações do funcionario e calcula a comissão
+// Descriï¿½ï¿½o   : O Algoritmo recebe as informaï¿½ï¿½es do funcionario e calcula a comissï¿½o
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 09/09/2022
 Var
-// Seção de Declarações das variáveis
-//carros vendido = CV | valor vendido = vV | comissão por carro = cC
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
+//carros vendido = CV | valor vendido = vV | comissï¿½o por carro = cC
 cV:real
 vV:real
 salario:real
 salFinal:real
 cC:real
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc..
-Escreval("Calculo de Comissão")
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc..
+Escreval("Calculo de Comissï¿½o")
 Escreval("insira a quantidade de carros vendidos: ")
 leia(cV)
 Escreval("insira o valor recebido por cada carro: ")
 leia(cC)
-Escreval("insira o valor vendido pelo vendedor no mês: ")
+Escreval("insira o valor vendido pelo vendedor no mï¿½s: ")
 leia(vV)
 Escreval("insira o salario atual do vendedor: ")
 leia(salario)
 salFinal<-salario+(cV*cC)+(vV*5/100)
-escreval("Comissão Vendedor de Carros")
-escreval("O Salario atualizado do vendedor é de ",salFinal,"R$")
+escreval("Comissï¿½o Vendedor de Carros")
+escreval("O Salario atualizado do vendedor ï¿½ de ",salFinal,"R$")
 Fimalgoritmo

@@ -1,28 +1,28 @@
 Algoritmo "Teste de Mesa"
-// Disciplina   : [Lógica de Programação com JavaScript]
+// Disciplina   : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson Costa
-// Descrição   : Faça um teste de mesa e complete o quadro a seguir para os
+// Descriï¿½ï¿½o   : Faï¿½a um teste de mesa e complete o quadro a seguir para os
 //               seguintes valores:
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 15/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    x, y, z : real
    resposta: caracter
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
    Escreval("Digite o valor X")
    leia (x)
    Escreval("Digite o valor Y")
    leia(y)
    z <- (x*y) + 5
-   se z <= 0 então
+   se z <= 0 entï¿½o
       resposta  <- "A"
-   senão
-      se z <= 100 então
+   senï¿½o
+      se z <= 100 entï¿½o
          resposta  <-"B"
-      senão
+      senï¿½o
          resposta  <- "C"
 
       fimse
@@ -32,7 +32,7 @@ Inicio
 
 Fimalgoritmo
 
-//Variáveis
+//Variï¿½veis
 
 //  X  |  Y |  Z  | Resposta
 //   3 |  2 |  11 | B

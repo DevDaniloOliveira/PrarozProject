@@ -1,19 +1,19 @@
-Algoritmo "Precificação de um automovel para o consumidor final"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "Precificaï¿½ï¿½o de um automovel para o consumidor final"
+// Disciplina   : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : O programa solicita o custo da fabrica e adiciona a taxa do distribuidore os impostos
+// Descriï¿½ï¿½o   : O programa solicita o custo da fabrica e adiciona a taxa do distribuidore os impostos
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 05/09/2022
 Var
-// Seção de Declarações das variáveis
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 custo:real
 preco:real
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc..
-Escreval("Calculo de precificação de automovel")
-Escreval("insira o preço de custo para a fabrica: ")
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc..
+Escreval("Calculo de precificaï¿½ï¿½o de automovel")
+Escreval("insira o preï¿½o de custo para a fabrica: ")
 leia(custo)
 preco<-custo+(custo*28/100)+(custo*45/100)
-escreval(" o preço final do veiculo é: ",preco)
+escreval(" o preï¿½o final do veiculo ï¿½: ",preco)
 
 Fimalgoritmo

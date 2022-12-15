@@ -1,24 +1,24 @@
 Algoritmo "Positivo ou Negativo"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson Costa
-// Descrição   : Ler um valor e escrever se é positivo, negativo ou zero.
+// Descriï¿½ï¿½o   : Ler um valor e escrever se ï¿½ positivo, negativo ou zero.
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 15/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    valor : real
    resultado: caracter
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
-   Escreval("Olá, vamos checar? Digite um valor")
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
+   Escreval("Olï¿½, vamos checar? Digite um valor")
    Leia(valor)
    
-   se valor >= 0  então
+   se valor >= 0  entï¿½o
              resultado <- "Positivo"
    senao
         resultado <- "Negativo"
    fimse
-   Escreval("O valor digitado é ",resultado)
+   Escreval("O valor digitado ï¿½ ",resultado)
 
 Fimalgoritmo

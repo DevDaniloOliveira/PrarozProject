@@ -1,7 +1,7 @@
-Algoritmo "cálcula a quantidade de litros de combustível gasta em uma viagem"
-// Disciplina  : [Lógica de Programação com JavaScript]
+Algoritmo "cï¿½lcula a quantidade de litros de combustï¿½vel gasta em uma viagem"
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : o programa Calcula o gasto de combustivel gasto em uma viagem!
+// Descriï¿½ï¿½o   : o programa Calcula o gasto de combustivel gasto em uma viagem!
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 05/09/2022
 Var
@@ -11,22 +11,22 @@ litros:real
 distancia:real
 temp:real
 //DISTANCIA=TEMPO * VELOCIDADE
-//LITROS_USADOS=DISTÂNCIA/12
+//LITROS_USADOS=DISTï¿½NCIA/12
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
 
-escreval("Insira as informações da viagem e o programa ira retornar tudo")
+escreval("Insira as informaï¿½ï¿½es da viagem e o programa ira retornar tudo")
 escreval("seu carro faz quantos KM/l normalmente ?")
 leia(mediapl)
 escreval("qual foi o tempo gasto no deslocamento em horas: ")
 leia(temp)
-escreval("qual foi a velocidade média de deslocamento em km/h: ")
+escreval("qual foi a velocidade mï¿½dia de deslocamento em km/h: ")
 leia(velocidade)
 distancia<-temp*velocidade
 litros<-distancia/mediapl
-escreval(" Você gastou ",litros,"litros em ",temp," horas")
-escreval(" Você se deslocava a mais o menos ",velocidade,"km/h e percorreu ",distancia,"KM")
+escreval(" Vocï¿½ gastou ",litros,"litros em ",temp," horas")
+escreval(" Vocï¿½ se deslocava a mais o menos ",velocidade,"km/h e percorreu ",distancia,"KM")
 escreval(,distancia,"KM"
 
 Fimalgoritmo

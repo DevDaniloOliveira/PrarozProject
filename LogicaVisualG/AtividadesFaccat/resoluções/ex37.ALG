@@ -1,21 +1,21 @@
 Algoritmo "Loja de frutas"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson Costa
-// Descrição   : Escreva um algoritmo para ler a quantidade (em Kg) de
-//               morangos e a quantidade (em Kg) de maças adquiridas e
+// Descriï¿½ï¿½o   : Escreva um algoritmo para ler a quantidade (em Kg) de
+//               morangos e a quantidade (em Kg) de maï¿½as adquiridas e
 //               escreva o valor a ser pago pelo cliente.
 // Autor(a)    : Danilo Oliveira de Almeida
 // Data atual  : 15/09/2022
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    MorKg,MacKg,Valor,TotalKg  : Real
    pMor,pMac                  : Real
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
    Escreval("Oi! Digite a quantidade(Kg) de Morangos")
    Leia(MorKg)
-   Escreval("Agora, digite a quantidade(Kg) de Maçãs")
+   Escreval("Agora, digite a quantidade(Kg) de Maï¿½ï¿½s")
    Leia(MacKg)
    Escreval("--------------")
    
@@ -37,11 +37,11 @@ Inicio
       Valor <- Valor + (Valor*10/100)
    fimse
    
-   Escreval("O valor final a ser pago é ",Valor)
+   Escreval("O valor final a ser pago ï¿½ ",Valor)
 
 
 
 Fimalgoritmo
 
 //Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra
-//ultrapassar R$ 25,00, receberá ainda um desconto de 10% sobre este total.
+//ultrapassar R$ 25,00, receberï¿½ ainda um desconto de 10% sobre este total.

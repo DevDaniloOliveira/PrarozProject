@@ -1,24 +1,24 @@
 Algoritmo "multiplicacao"
-// Disciplina   : [Lógica de Programação com JavaScript]
+// Disciplina   : [Lï¿½gica de Programaï¿½ï¿½o com JavaScript]
 // Professor   : Jailson
-// Descrição   : O programa solicita dois valores efetua a multiplicação e retorna o produto
+// Descriï¿½ï¿½o   : O programa solicita dois valores efetua a multiplicaï¿½ï¿½o e retorna o produto
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 31/08/2022
 Var
-// Seção de Declarações das variáveis 
-// Multiplicação=multi
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
+// Multiplicaï¿½ï¿½o=multi
 numero1:real
 numero2:real
 multi:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
 escreval("Bom dia")
 escreval("Digite um numero")
 leia(numero1)
 escreval("Digite outro numero")
 leia(numero2)
 multi<-numero1*numero2
-escreval(" o valor da multiplicação dos dois numero é: ",multi)
+escreval(" o valor da multiplicaï¿½ï¿½o dos dois numero ï¿½: ",multi)
 
 Fimalgoritmo
